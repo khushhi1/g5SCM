@@ -1,0 +1,4 @@
+this is scm class of group G5
+hello G5
+how are you?
+:
